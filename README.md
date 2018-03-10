@@ -1,1 +1,1 @@
-# Text-classification
+# Text mining
